@@ -1,4 +1,4 @@
-# discrete-processor
+# discrete-calculator
 Trabalho de Conclusão do Curso de Eletrônica
 
 ## Objetivo
